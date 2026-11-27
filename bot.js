@@ -15,7 +15,7 @@ const fs = require('fs');
 const https = require('https');
 
 // 🔴 ضع التوكن الخاص ببوت التليجرام هنا
-const TOKEN = '9295081176:AAFbN9pS4iwK3r5TtjMhiB0xQJiJEOlGjrI';
+const TOKEN = '9295081176:AAFVSVPR5hHhBPUW4eJae0x0V2xSiEeJV70';
 
 // 🔴 الأيدي المسموح لهم باستخدام البوت
 const ALLOWED_IDS = [
